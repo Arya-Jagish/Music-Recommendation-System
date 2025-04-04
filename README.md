@@ -38,13 +38,13 @@ git clone https://github.com/yourusername/music-recommendation-app.git
 cd music-recommendation-app
 
 
-2. **Create a virtual environment (optional) and install requirements:**
+2. Create a virtual environment (optional) and install requirements:
 pip install -r requirements.txt
 
-**3. Run the FastAPI backend**
+3. Run the FastAPI backend
 uvicorn backend.api:app --reload
 
-**4. Run the Streamlit frontend**
+4. Run the Streamlit frontend
 streamlit run app.py
 
 
