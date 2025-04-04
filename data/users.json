@@ -1,0 +1,108 @@
+{
+    "users": {
+        "user1": {
+            "password": "hashed_password",
+            "favorites": []
+        },
+        "test1": {
+            "password": "8622f0f69c91819119a8acf60a248d7b36fdb7ccf857ba8f85cf7f2767ff8265",
+            "favorites": [
+                "Olanjali Kuruvi - From \"1983\"",
+                "Gange Thudiyil (M)",
+                "Neeyam Thanalinu",
+                "Nuvvasthanante",
+                "Olanjali Kuruvi - From \"1983\"",
+                "Olanjali Kuruvi - From \"1983\"",
+                "Hrudaya Sakhi",
+                "Olanjali Kuruvi - From \"1983\"",
+                "Hrudaya Sakhi",
+                "Olanjali Kuruvi - From \"1983\"",
+                "Hrudaya Sakhi",
+                "Olanjali Kuruvi - From \"1983\"",
+                "Olanjali Kuruvi - From \"1983\"",
+                "Hrudaya Sakhi",
+                "Olanjali Kuruvi - From \"1983\"",
+                "Olanjali Kuruvi - From \"1983\"",
+                "Olanjali Kuruvi - From \"1983\"",
+                "Olanjali Kuruvi - From \"1983\"",
+                "Olanjali Kuruvi - From \"1983\"",
+                "Olanjali Kuruvi - From \"1983\"",
+                "Olanjali Kuruvi - From \"1983\"",
+                "Hrudaya Sakhi",
+                "Junile Nilamazhayil",
+                "Vaaleduthal",
+                "Oru Narupushpamaai - Male Version",
+                "Olanjali Kuruvi - From \"1983\"",
+                "Olanjali Kuruvi - From \"1983\"",
+                "Olanjali Kuruvi - From \"1983\"",
+                "Tujh Mein Rab Dikhta Hai - II",
+                "Olanjali Kuruvi - From \"1983\"",
+                "Hrudaya Sakhi",
+                "Olanjali Kuruvi - From \"1983\"",
+                "Hrudaya Sakhi",
+                "Manmadhuda",
+                "Maa",
+                "Mazhavillin",
+                "Dil Chahta Hai",
+                "Olanjali Kuruvi - From \"1983\"",
+                "Hrudaya Sakhi",
+                "Olanjali Kuruvi - From \"1983\"",
+                "Olanjali Kuruvi - From \"1983\"",
+                "Hrudaya Sakhi",
+                "Vaaleduthal",
+                "Junile Nilamazhayil",
+                "Olanjali Kuruvi - From \"1983\"",
+                "Naran",
+                "Olanjali Kuruvi - From \"1983\"",
+                "Neeyam Thanalinu",
+                "Olanjali Kuruvi - From \"1983\"",
+                "Hrudaya Sakhi",
+                "Mazhavillin",
+                "Naran"
+            ]
+        },
+        "aryajagish": {
+            "password": "7eec22e647335fe73e9144a12a9f861ce5c9706e250be2efb7128ea4fe1755b6",
+            "favorites": []
+        },
+        "rishi": {
+            "password": "1d80d38faf0184b75c60d3aabb9cfbc5f737ab4b2826b9c90ccc4c053f676c37",
+            "favorites": [
+                "Olanjali Kuruvi - From \"1983\""
+            ]
+        },
+        "bindu": {
+            "password": "b399a60f755db5f9e96a0c3bda56eef7107f3d3dd8607bc446cd3c4b9d4ccd98",
+            "favorites": [
+                "Kadalolam",
+                "Mukilin Magalae - From \"Makalkku\"",
+                "Pai Kurumbiye"
+            ]
+        },
+        "test12": {
+            "password": "ecd71870d1963316a97e3ac3408c9835ad8cf0f3c1bc703527c30265534f75ae",
+            "favorites": [
+                "Nuvvasthanante",
+                "Olanjali Kuruvi - From \"1983\""
+            ]
+        }
+    },
+    "test1": {
+        "password": "test@123"
+    },
+    "test2": {
+        "password": "test123"
+    },
+    "test3": {
+        "password": "test123"
+    },
+    "test4": {
+        "password": "test@123"
+    },
+    "arya": {
+        "password": "arya@123"
+    },
+    "malu": {
+        "password": "malu123"
+    }
+}
